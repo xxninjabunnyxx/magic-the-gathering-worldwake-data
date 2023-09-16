@@ -1,0 +1,117 @@
+---
+object: card
+id: b9f038f0-6f50-4f89-855c-6bbd68d84436
+oracle_id: c025d558-aae8-4146-923b-a98035025a42
+multiverse_ids:
+- 197769
+mtgo_id: 35779
+mtgo_foil_id: 35780
+tcgplayer_id: 34330
+cardmarket_id: 22201
+name: Apex Hawks
+lang: en
+released_at: '2010-02-05'
+uri: https://api.scryfall.com/cards/b9f038f0-6f50-4f89-855c-6bbd68d84436
+scryfall_uri: https://scryfall.com/card/wwk/2/apex-hawks?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/9/b9f038f0-6f50-4f89-855c-6bbd68d84436.jpg?1562294974
+  normal: https://cards.scryfall.io/normal/front/b/9/b9f038f0-6f50-4f89-855c-6bbd68d84436.jpg?1562294974
+  large: https://cards.scryfall.io/large/front/b/9/b9f038f0-6f50-4f89-855c-6bbd68d84436.jpg?1562294974
+  png: https://cards.scryfall.io/png/front/b/9/b9f038f0-6f50-4f89-855c-6bbd68d84436.png?1562294974
+  art_crop: https://cards.scryfall.io/art_crop/front/b/9/b9f038f0-6f50-4f89-855c-6bbd68d84436.jpg?1562294974
+  border_crop: https://cards.scryfall.io/border_crop/front/b/9/b9f038f0-6f50-4f89-855c-6bbd68d84436.jpg?1562294974
+mana_cost: "{2}{W}"
+cmc: 3.0
+type_line: Creature — Bird
+oracle_text: |-
+  Multikicker {1}{W} (You may pay an additional {1}{W} any number of times as you cast this spell.)
+  Flying
+  Apex Hawks enters the battlefield with a +1/+1 counter on it for each time it was kicked.
+power: '2'
+toughness: '2'
+colors:
+- W
+color_identity:
+- W
+keywords:
+- Flying
+- Multikicker
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 2f248ce6-c2a5-4c6f-a2be-0c593fbe173c
+set: wwk
+set_name: Worldwake
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/2f248ce6-c2a5-4c6f-a2be-0c593fbe173c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Awwk&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/wwk?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/b9f038f0-6f50-4f89-855c-6bbd68d84436/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac025d558-aae8-4146-923b-a98035025a42&unique=prints
+collector_number: '2'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: David Palumbo
+artist_ids:
+- 04ce1c75-e30c-4b7a-8cb0-b53e4ecc2f39
+illustration_id: 515fc5e2-07c8-4635-abc9-aec747fa8108
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 20894
+penny_rank: 8933
+prices:
+  usd: '0.04'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.05'
+  eur_foil: '0.17'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197769
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Apex+Hawks&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Apex+Hawks&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Apex+Hawks
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/34330?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Apex+Hawks&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/35779?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

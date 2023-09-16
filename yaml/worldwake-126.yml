@@ -1,0 +1,112 @@
+---
+object: card
+id: 217a05a7-557f-4879-8fd1-d6c003f1751e
+oracle_id: b079f9db-974d-4525-a894-57b754ba9dcc
+multiverse_ids:
+- 197152
+mtgo_id: 35769
+mtgo_foil_id: 35770
+tcgplayer_id: 34392
+cardmarket_id: 22257
+name: Kitesail
+lang: en
+released_at: '2010-02-05'
+uri: https://api.scryfall.com/cards/217a05a7-557f-4879-8fd1-d6c003f1751e
+scryfall_uri: https://scryfall.com/card/wwk/126/kitesail?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/2/1/217a05a7-557f-4879-8fd1-d6c003f1751e.jpg?1562283256
+  normal: https://cards.scryfall.io/normal/front/2/1/217a05a7-557f-4879-8fd1-d6c003f1751e.jpg?1562283256
+  large: https://cards.scryfall.io/large/front/2/1/217a05a7-557f-4879-8fd1-d6c003f1751e.jpg?1562283256
+  png: https://cards.scryfall.io/png/front/2/1/217a05a7-557f-4879-8fd1-d6c003f1751e.png?1562283256
+  art_crop: https://cards.scryfall.io/art_crop/front/2/1/217a05a7-557f-4879-8fd1-d6c003f1751e.jpg?1562283256
+  border_crop: https://cards.scryfall.io/border_crop/front/2/1/217a05a7-557f-4879-8fd1-d6c003f1751e.jpg?1562283256
+mana_cost: "{2}"
+cmc: 2.0
+type_line: Artifact — Equipment
+oracle_text: |-
+  Equipped creature gets +1/+0 and has flying.
+  Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
+colors: []
+color_identity: []
+keywords:
+- Equip
+legalities:
+  standard: legal
+  future: legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: legal
+  historicbrawl: legal
+  alchemy: legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 2f248ce6-c2a5-4c6f-a2be-0c593fbe173c
+set: wwk
+set_name: Worldwake
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/2f248ce6-c2a5-4c6f-a2be-0c593fbe173c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Awwk&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/wwk?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/217a05a7-557f-4879-8fd1-d6c003f1751e/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab079f9db-974d-4525-a894-57b754ba9dcc&unique=prints
+collector_number: '126'
+digital: false
+rarity: common
+flavor_text: Kitesailing is a way of life—and without practice, the end of it.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Cyril Van Der Haegen
+artist_ids:
+- 90edbd2e-9462-4394-b0b4-02885b4e56b3
+illustration_id: b04ad842-1bd1-493d-b7b7-eaf7437edb54
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 12733
+penny_rank: 11763
+prices:
+  usd: '0.03'
+  usd_foil: '0.33'
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: '0.10'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197152
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Kitesail&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Kitesail&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Kitesail
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/34392?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Kitesail&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/35769?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

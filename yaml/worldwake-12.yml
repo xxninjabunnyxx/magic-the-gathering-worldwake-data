@@ -1,0 +1,117 @@
+---
+object: card
+id: 79d0234f-d712-4ac3-bd3b-10f9c530e167
+oracle_id: 7f31aa43-cf75-4488-b47f-e16e923a2d01
+multiverse_ids:
+- 189159
+mtgo_id: 35697
+mtgo_foil_id: 35698
+tcgplayer_id: 34397
+cardmarket_id: 22205
+name: Lightkeeper of Emeria
+lang: en
+released_at: '2010-02-05'
+uri: https://api.scryfall.com/cards/79d0234f-d712-4ac3-bd3b-10f9c530e167
+scryfall_uri: https://scryfall.com/card/wwk/12/lightkeeper-of-emeria?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/7/9/79d0234f-d712-4ac3-bd3b-10f9c530e167.jpg?1562290010
+  normal: https://cards.scryfall.io/normal/front/7/9/79d0234f-d712-4ac3-bd3b-10f9c530e167.jpg?1562290010
+  large: https://cards.scryfall.io/large/front/7/9/79d0234f-d712-4ac3-bd3b-10f9c530e167.jpg?1562290010
+  png: https://cards.scryfall.io/png/front/7/9/79d0234f-d712-4ac3-bd3b-10f9c530e167.png?1562290010
+  art_crop: https://cards.scryfall.io/art_crop/front/7/9/79d0234f-d712-4ac3-bd3b-10f9c530e167.jpg?1562290010
+  border_crop: https://cards.scryfall.io/border_crop/front/7/9/79d0234f-d712-4ac3-bd3b-10f9c530e167.jpg?1562290010
+mana_cost: "{3}{W}"
+cmc: 4.0
+type_line: Creature — Angel
+oracle_text: |-
+  Multikicker {W} (You may pay an additional {W} any number of times as you cast this spell.)
+  Flying
+  When Lightkeeper of Emeria enters the battlefield, you gain 2 life for each time it was kicked.
+power: '2'
+toughness: '4'
+colors:
+- W
+color_identity:
+- W
+keywords:
+- Flying
+- Multikicker
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 2f248ce6-c2a5-4c6f-a2be-0c593fbe173c
+set: wwk
+set_name: Worldwake
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/2f248ce6-c2a5-4c6f-a2be-0c593fbe173c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Awwk&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/wwk?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/79d0234f-d712-4ac3-bd3b-10f9c530e167/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7f31aa43-cf75-4488-b47f-e16e923a2d01&unique=prints
+collector_number: '12'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: James Ryman
+artist_ids:
+- 3852bbc9-11c0-4fe3-8722-a06ad7e2bcc5
+illustration_id: 9789bc68-3820-40fb-824c-0d37ff12e5be
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 17215
+penny_rank: 12867
+prices:
+  usd: '0.29'
+  usd_foil: '1.78'
+  usd_etched: 
+  eur: '0.50'
+  eur_foil: '0.49'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189159
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Lightkeeper+of+Emeria&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Lightkeeper+of+Emeria&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Lightkeeper+of+Emeria
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/34397?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Lightkeeper+of+Emeria&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/35697?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

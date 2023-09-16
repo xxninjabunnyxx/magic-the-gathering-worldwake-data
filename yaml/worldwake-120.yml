@@ -1,0 +1,119 @@
+---
+object: card
+id: deeb989b-aff4-4232-9ae1-c4f73dacf728
+oracle_id: fd36cc16-d3d9-4c9d-9d28-bbe7e5459d75
+multiverse_ids:
+- 197840
+mtgo_id: 35645
+mtgo_foil_id: 35646
+tcgplayer_id: 34467
+cardmarket_id: 22253
+name: Wrexial, the Risen Deep
+lang: en
+released_at: '2010-02-05'
+uri: https://api.scryfall.com/cards/deeb989b-aff4-4232-9ae1-c4f73dacf728
+scryfall_uri: https://scryfall.com/card/wwk/120/wrexial-the-risen-deep?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/d/e/deeb989b-aff4-4232-9ae1-c4f73dacf728.jpg?1562297654
+  normal: https://cards.scryfall.io/normal/front/d/e/deeb989b-aff4-4232-9ae1-c4f73dacf728.jpg?1562297654
+  large: https://cards.scryfall.io/large/front/d/e/deeb989b-aff4-4232-9ae1-c4f73dacf728.jpg?1562297654
+  png: https://cards.scryfall.io/png/front/d/e/deeb989b-aff4-4232-9ae1-c4f73dacf728.png?1562297654
+  art_crop: https://cards.scryfall.io/art_crop/front/d/e/deeb989b-aff4-4232-9ae1-c4f73dacf728.jpg?1562297654
+  border_crop: https://cards.scryfall.io/border_crop/front/d/e/deeb989b-aff4-4232-9ae1-c4f73dacf728.jpg?1562297654
+mana_cost: "{3}{U}{U}{B}"
+cmc: 6.0
+type_line: Legendary Creature — Kraken
+oracle_text: |-
+  Islandwalk, swampwalk (This creature can't be blocked as long as defending player controls an Island or a Swamp.)
+  Whenever Wrexial, the Risen Deep deals combat damage to a player, you may cast target instant or sorcery card from that player's graveyard without paying its mana cost. If that spell would be put into a graveyard, exile it instead.
+power: '5'
+toughness: '8'
+colors:
+- B
+- U
+color_identity:
+- B
+- U
+keywords:
+- Landwalk
+- Swampwalk
+- Islandwalk
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 2f248ce6-c2a5-4c6f-a2be-0c593fbe173c
+set: wwk
+set_name: Worldwake
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/2f248ce6-c2a5-4c6f-a2be-0c593fbe173c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Awwk&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/wwk?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/deeb989b-aff4-4232-9ae1-c4f73dacf728/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Afd36cc16-d3d9-4c9d-9d28-bbe7e5459d75&unique=prints
+collector_number: '120'
+digital: false
+rarity: mythic
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Eric Deschamps
+artist_ids:
+- 37970e22-9cee-44c1-af44-5ee27cf26b76
+illustration_id: 896b617c-1676-43ab-9c4e-5808658ecc8b
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 2875
+penny_rank: 12196
+prices:
+  usd: '1.74'
+  usd_foil: '14.34'
+  usd_etched: 
+  eur: '0.75'
+  eur_foil: '16.00'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197840
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Wrexial%2C+the+Risen+Deep&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Wrexial%2C+the+Risen+Deep&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Wrexial%2C+the+Risen+Deep
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/34467?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Wrexial%2C+the+Risen+Deep&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/35645?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

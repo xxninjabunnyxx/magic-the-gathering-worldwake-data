@@ -1,0 +1,114 @@
+---
+object: card
+id: ce73b174-2448-4914-bca3-70564191da16
+oracle_id: '05079479-86a6-4041-a395-83d325b6ddb7'
+multiverse_ids:
+- 197968
+mtgo_id: 35611
+mtgo_foil_id: 35612
+tcgplayer_id: 34455
+cardmarket_id: 22169
+name: Treasure Hunt
+lang: en
+released_at: '2010-02-05'
+uri: https://api.scryfall.com/cards/ce73b174-2448-4914-bca3-70564191da16
+scryfall_uri: https://scryfall.com/card/wwk/42/treasure-hunt?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/c/e/ce73b174-2448-4914-bca3-70564191da16.jpg?1562296243
+  normal: https://cards.scryfall.io/normal/front/c/e/ce73b174-2448-4914-bca3-70564191da16.jpg?1562296243
+  large: https://cards.scryfall.io/large/front/c/e/ce73b174-2448-4914-bca3-70564191da16.jpg?1562296243
+  png: https://cards.scryfall.io/png/front/c/e/ce73b174-2448-4914-bca3-70564191da16.png?1562296243
+  art_crop: https://cards.scryfall.io/art_crop/front/c/e/ce73b174-2448-4914-bca3-70564191da16.jpg?1562296243
+  border_crop: https://cards.scryfall.io/border_crop/front/c/e/ce73b174-2448-4914-bca3-70564191da16.jpg?1562296243
+mana_cost: "{1}{U}"
+cmc: 2.0
+type_line: Sorcery
+oracle_text: Reveal cards from the top of your library until you reveal a nonland
+  card, then put all cards revealed this way into your hand.
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 2f248ce6-c2a5-4c6f-a2be-0c593fbe173c
+set: wwk
+set_name: Worldwake
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/2f248ce6-c2a5-4c6f-a2be-0c593fbe173c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Awwk&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/wwk?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/ce73b174-2448-4914-bca3-70564191da16/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A05079479-86a6-4041-a395-83d325b6ddb7&unique=prints
+collector_number: '42'
+digital: false
+rarity: common
+flavor_text: |-
+  "The longer the journey, the more one learns."
+  —Isanke, Halimar seastalker
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Daren Bader
+artist_ids:
+- 7da1a585-c875-45e4-b322-5da9e8e1f651
+illustration_id: 507986c6-f8c0-4ae5-97b3-2abb3ebe8fe0
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 12085
+penny_rank: 4253
+prices:
+  usd: '0.13'
+  usd_foil: '1.91'
+  usd_etched: 
+  eur: '0.10'
+  eur_foil: '1.00'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197968
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Treasure+Hunt&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Treasure+Hunt&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Treasure+Hunt
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/34455?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Treasure+Hunt&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/35611?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

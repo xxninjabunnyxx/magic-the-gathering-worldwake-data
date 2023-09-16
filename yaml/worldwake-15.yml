@@ -1,0 +1,114 @@
+---
+object: card
+id: f38b1b7a-2f20-4a82-b143-7aeafc686dee
+oracle_id: 41fb2b0e-d0a0-4e47-a6f3-fc9860ade65a
+multiverse_ids:
+- 198393
+mtgo_id: 35759
+mtgo_foil_id: 35760
+tcgplayer_id: 34401
+cardmarket_id: 22187
+name: Marshal's Anthem
+lang: en
+released_at: '2010-02-05'
+uri: https://api.scryfall.com/cards/f38b1b7a-2f20-4a82-b143-7aeafc686dee
+scryfall_uri: https://scryfall.com/card/wwk/15/marshals-anthem?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/3/f38b1b7a-2f20-4a82-b143-7aeafc686dee.jpg?1562299303
+  normal: https://cards.scryfall.io/normal/front/f/3/f38b1b7a-2f20-4a82-b143-7aeafc686dee.jpg?1562299303
+  large: https://cards.scryfall.io/large/front/f/3/f38b1b7a-2f20-4a82-b143-7aeafc686dee.jpg?1562299303
+  png: https://cards.scryfall.io/png/front/f/3/f38b1b7a-2f20-4a82-b143-7aeafc686dee.png?1562299303
+  art_crop: https://cards.scryfall.io/art_crop/front/f/3/f38b1b7a-2f20-4a82-b143-7aeafc686dee.jpg?1562299303
+  border_crop: https://cards.scryfall.io/border_crop/front/f/3/f38b1b7a-2f20-4a82-b143-7aeafc686dee.jpg?1562299303
+mana_cost: "{2}{W}{W}"
+cmc: 4.0
+type_line: Enchantment
+oracle_text: |-
+  Multikicker {1}{W} (You may pay an additional {1}{W} any number of times as you cast this spell.)
+  Creatures you control get +1/+1.
+  When Marshal's Anthem enters the battlefield, return up to X target creature cards from your graveyard to the battlefield, where X is the number of times Marshal's Anthem was kicked.
+colors:
+- W
+color_identity:
+- W
+keywords:
+- Multikicker
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 2f248ce6-c2a5-4c6f-a2be-0c593fbe173c
+set: wwk
+set_name: Worldwake
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/2f248ce6-c2a5-4c6f-a2be-0c593fbe173c
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Awwk&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/wwk?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/f38b1b7a-2f20-4a82-b143-7aeafc686dee/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A41fb2b0e-d0a0-4e47-a6f3-fc9860ade65a&unique=prints
+collector_number: '15'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Matt Stewart
+artist_ids:
+- 20871267-2d8a-41d5-b03a-be3d557c5734
+illustration_id: 8480fcda-883b-4912-aea9-afa389a43b39
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 3930
+penny_rank: 6237
+prices:
+  usd: '0.25'
+  usd_foil: '3.60'
+  usd_etched: 
+  eur: '0.04'
+  eur_foil: '1.19'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=198393
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Marshal%27s+Anthem&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Marshal%27s+Anthem&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Marshal%27s+Anthem
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/34401?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Marshal%27s+Anthem&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/35759?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
